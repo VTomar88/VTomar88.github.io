@@ -2,7 +2,7 @@
 
 Hi, I'm Varsha Tomar, a Data Science Master's student with a background in engineering. I'm passionate about extracting insights from data and applying creativity to everything I do. When I'm not diving into data, you'll find me expressing my creativity through art and experimenting in the kitchen. Let's connect and create something amazing together!
 
-[Visit my portfolio](https://varshatomar.github.io)
+[Visit my portfolio](https://vtomar88.github.io)
 
 # Projects
 
