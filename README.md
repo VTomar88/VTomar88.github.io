@@ -39,5 +39,5 @@ The objective of the study was to assess the safety of air travel and examine th
 
 # Contact
 VARSHA TOMAR
-- vtomar@my365.bellevue.edu
+vtomar@my365.bellevue.edu
 
