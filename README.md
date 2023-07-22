@@ -38,6 +38,8 @@ In summary, identifying threatening personalities in a team is vital to promotin
 The study's objective was to assess the safety of air travel and examine the efforts made by airlines to enhance it over the years. The analysis primarily focused on comparing the number of fatalities during air travel from 1962 to 2019 with road accidents in Maryland from 2015 to 2022.
 
 # Contact
+
 VARSHA TOMAR
-![]vtomar@my365.bellevue.edu
+
+Email: vtomar@my365.bellevue.edu
 
