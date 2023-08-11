@@ -39,20 +39,31 @@ This project provides insight into customer segmentation in a supermarket mall u
 ### Project 5: Remote Jobs in the Post-COVID-19 Era
 The percentages of remote and hybrid jobs have drastically increased from 2020 onwards. In this article, I have presented a total of five questions regarding the future of remote jobs and gathered information and data that favor or disagree with the problem. One of the interesting findings was on my hypothesis that most professionals in post COVID world would prefer to do more remote jobs. The data suggests that most employees would prefer hybrid jobs to remote or on-site jobs. Further, the number of remote jobs posted online based on pre-and post-pandemic skills is presented. Areas requiring soft skills are the easy target for remote jobs, which are still increasing in the number of postings. Further, I have discussed mental and well-being issues raised due to increased remote jobs during the pandemic. Employees are afraid that post-pandemic would lead to a decrease in their employment benefits and rewards they were earning during the pandemic. Finally, I have presented ethical issues of remote jobs and challenges or opportunities raised by the data in this study.
 
+[Check out my project](https://github.com/VTomar88/Data-Science-Projects-/tree/VTomar88-patch-1/Project5-Remote%20Jobs%20in%20the%20Post-COVID-19%20Era)
+
 ### Project 6: Weather app – Python
 The Weather Forecast Application is a Python program that interacts with the OpenWeatherMap API to obtain weather forecast data for a given city or zip code. The program provides a user-friendly interface to input the location and choose the desired temperature unit (Celsius, Fahrenheit, or Kelvin). It then retrieves the weather information from the API and displays it in a readable format to the user.
+
+[Check out my project](https://github.com/VTomar88/Data-Science-Projects-/tree/VTomar88-patch-1/Project6-Weather%20app%E2%80%93Python)
 
 ### Project 7: United States Public School ratings depend on economic and demographic characteristics.
 School district ratings have been long debated for a moving family or homebuyers. For instance, I recently moved from Nebraska to Maryland in June 2022. Constantly it was bothering my husband and me how can we get a home in a high-rating school district area, though we have a 2-year-old child, and he still has time to go to school. Such apprehension is most common among families with growing children. 
 
 In this project, I wish to understand if economic (like poverty) and demographics (areas with more immigrants/race) impact US school ratings. 
 
+[Check out my project](https://github.com/VTomar88/Data-Science-Projects-/tree/VTomar88-patch-1/Project7-United%20States%20Public%20School%20ratings%20depend%20on%20economic%20and%20demographic%20characteristics.)
+
+
 ### Project 8: ML-based Model to Identify ‘Threatening Personalities’ in a Team
 Often physical strength is correlated to threatening personalities. In today’s technological era, judging a personality just by physical stature, gender, or looks might be misleading and often results in loss of real skill sets from a company. Further, measuring current employees' mental health can help build a safe environment and the company's success.
 In summary, identifying threatening personalities in a team is vital to promoting a healthy and productive work environment. It can improve communication, collaboration, and performance, ultimately benefiting the team and the organization.
 
+[Check out my project](https://github.com/VTomar88/Data-Science-Projects-/tree/VTomar88-patch-1/Project8-ML-based%20Model%20to%20Identify%20%E2%80%98Threatening%20Personalities%E2%80%99%20in%20a%20Team)
+
 ### Project 9: Delta Airlines: A Safer Travel Option
 The study's objective was to assess the safety of air travel and examine the efforts made by airlines to enhance it over the years. The analysis primarily focused on comparing the number of fatalities during air travel from 1962 to 2019 with road accidents in Maryland from 2015 to 2022.
+
+[Check out my project](https://github.com/VTomar88/Data-Science-Projects-/tree/VTomar88-patch-1/Project9-Delta%20Airlines%3A%20A%20Safer%20Travel%20Option)
 
 # Contact
 
