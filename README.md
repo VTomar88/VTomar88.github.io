@@ -30,6 +30,8 @@ Home buyers and research scholars are regularly keeping updated on housing price
 ### Project 4: Customer Segmentation in a Supermarket Mall Using Unsupervised Machine Learning Techniques
 This project provides insight into customer segmentation in a supermarket mall using unsupervised machine-learning techniques. The project aims to identify distinct customer groups based on demographic information and spending behavior, leveraging unsupervised machine learning algorithms like K-means and Density-Based Clustering (DBSCAN). The dataset obtained from Kaggle contains customer information, including age, gender, annual income, and spending score. Exploratory data analysis revealed valuable insights about the dataset, including customer age distribution, income levels, and spending patterns. Feature engineering involves converting categorical data to numerical and identifying correlations among variables. The K-means analysis resulted in five customer clusters representing financially conservative, balanced, high-end shoppers, impulsive buyers, and frugal spenders. However, DBSCAN's performance was limited due to weak density patterns and a small number of outliers in the dataset. Ethical considerations were considered to protect customer privacy. Challenges included data comprehensiveness, feature selection, interpreting results, and evaluating algorithm performance.
 
+![P4image1](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/62c9d1c9-b008-4cd9-8f01-970cdbf36775)
+
 [Check out my project code](https://github.com/VTomar88/Data-Science-Projects-/blob/VTomar88-patch-1/Project4-Customer-Segmentation-in-a-Supermarket-Mall/Customer_Segmentation_in_a_Supermarket_Mall.ipynb)
 
 ### Project 5: Remote Jobs in the Post-COVID-19 Era
