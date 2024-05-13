@@ -34,6 +34,14 @@ The Alien Invasion Game is designed to learn the fundamentals of building a larg
 ![image](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/133f8f93-e712-4f16-a7f1-31a2b8466c2e)
 
 
+### Project 4: Factors affecting Health Insurance in US
+
+https://github.com/VTomar88/Factors_affecting_insurance_rates.git
+
+A linear regression model was successfully developed to predict insurance charges based on various features, including age, BMI, sex, smoking status, number of children, and region. Initially, the categorical variables were transformed into numerical values by creating a new data frame containing dummy variables. Subsequently, the data frame was divided into training and testing sets. By using the 'charges' column as the target variable, the linear regression model was fitted, resulting in a satisfactory R-squared value of 0.799 on the test set. This indicates that the model's predictions will deviate from the actual values by no more than 20%, as depicted in the 'Real vs Prediction' charges comparison graph. Insurance companies can employ this model to forecast charges for prospective customers and identify the primary factors driving insurance costs. Future research should focus on enhancing the model's performance and exploring alternative machine learning algorithms for comparative analysis.
+
+![image](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/4f47ddc5-f34a-494b-8545-90dd090b8e88)
+
 
 # Contact
 
