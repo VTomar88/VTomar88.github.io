@@ -8,12 +8,14 @@ Hi, I'm Varsha Tomar, a Data Science Master's student with a background in engin
 
 # Projects
 
-### Project 1: Factors Affecting Health Insurance Charges for XYZ Insurance Company
-The aim of this project is to investigate the factors that influence health insurance charges for XYZ Health Insurance Company, a major insurance provider in the USA. To achieve this, a dataset spanning one year was collected. The data was thoroughly cleaned to identify and address any missing values. Categorical variables such as sex, smoker status, and region were converted into numerical values using dummy variables. Subsequently, exploratory data analysis techniques were employed, including creating various graphs. Finally, the dataset was split into 80% training and 20% testing data to assess the suitability of a linear regression model in fitting the dataset. The key drivers of insurance charges were picked by developing a predictive model for potential customers.
+### Project 1: Alien Invasion Game
+The Alien Invasion Game is designed to learn the fundamentals of building a large-scale project with Python. Using Pygame, the game involves a ship that players can move left and right to fire bullets at a fleet of aliens. Players earn points for hitting alien ships and advance levels upon clearing the fleet.
 
-![P1image1](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/2a2ea057-6f8e-4007-b4f2-efd8a39b9884)
+![image](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/d9d7aca7-9771-4a19-be99-ad0141d2fe8d)
+![image](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/935fa42e-434b-42c2-bf86-e56fa3c814a3)
+![image](https://github.com/VTomar88/VTomar88.github.io/assets/107073327/133f8f93-e712-4f16-a7f1-31a2b8466c2e)
 
-[Check out my project](https://github.com/VTomar88/Data-Science-Projects-/tree/VTomar88-patch-1/Project1)
+https://github.com/VTomar88/alien_invasion_python.git
 
 ### Project 2: Salary Prediction for Data Scientists: A Machine Learning Approach
 This project contains a comprehensive analysis of hiring trends and average salaries in the data science field, based on data scraped from the Glassdoor website. The analysis includes data cleaning, exploratory data analysis (EDA), and model building to predict the salary of a data scientist. The goal of this project is to identify key factors that impact salaries and develop a reliable predictive model.
